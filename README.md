@@ -11,10 +11,10 @@ Hosted at: http://hacks.io
 
 Roles:
 
-NJ - DEALS WITH UNIVERSITY AND SHIT LIKE THAT #Doreen
-Chris - designer in residence and thursday event maker
-John - Sysadmin 
-Milo - Substitute and Punter
+- NJ - DEALS WITH UNIVERSITY AND SHIT LIKE THAT #Doreen
+- Chris - designer in residence and thursday event maker
+- John - Sysadmin 
+- Milo - Substitute and Punter
 
 Commandments:
 - Don't be racist, sexist, homophobic, or otherwise prejudiced against people
